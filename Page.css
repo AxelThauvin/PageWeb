@@ -1,0 +1,85 @@
+body{font-family: 'Raleway', sans-serif;
+
+}
+nav {color : black; 
+    
+    background-color: #FFFBFB;
+    margin-left: 0px;
+    } 
+h1 {color: #3C4853; 
+     height: 14px; 
+     text-decoration: bold; 
+    }
+h2 {color: #3C4853; 
+        height: 14px; 
+        text-decoration: bold; 
+}
+   
+p {color: rouge; 
+  }
+
+li {
+    color: #283D50;
+  }
+
+body{ background-color: #492B2B;
+
+  }
+.FirstLine{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    background-color: #5B6066;
+    color: white;
+    line-height: 0px;
+    padding-left: 0px;
+}
+.colone{
+    display: flex;
+    flex-direction: column;
+    margin-right: 0px;
+    padding-inline-start: 0px;
+    
+}
+.Name{
+    font-size: 200%;
+    line-height: 0px;
+    margin-top: 15px;
+}
+a {text-decoration: none;
+
+}
+nav{
+    margin-top: 0px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.encadre{
+    margin-left: 50px;
+    background-color: rgb(238, 238, 238);
+    width: 350px;
+    padding: 10px;
+
+}
+.AllPage{
+    padding-left: 10px;
+}
+.line{
+    display: flex;
+    justify-content: start;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.none{
+    height: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.signature{
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+}
